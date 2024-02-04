@@ -8,7 +8,9 @@ const ProjectList = ({ projects }) => {
           <h2>{project.title}</h2>
           <p>{project.description}</p>
           <button className="btn">
-            <a href={project.url}>View</a>
+            <a href={project.url} target="_blank">
+              View
+            </a>
           </button>
         </div>
       ))}
