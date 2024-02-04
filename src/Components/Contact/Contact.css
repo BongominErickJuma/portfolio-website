@@ -1,0 +1,21 @@
+.contact-list{
+    text-align: center;
+}
+.social-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.social-list__item {
+    margin: 0 .5em;
+}
+
+.social-list__link {
+    padding: .5em;
+}
+.phone{
+    margin: .5em 0;
+}

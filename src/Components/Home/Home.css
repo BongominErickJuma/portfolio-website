@@ -1,0 +1,66 @@
+.section__title {
+    margin-bottom: .25em;
+}
+
+.section__title--intro {
+    font-weight: var(--fw-reg);
+}
+
+.section__title--intro strong {
+    display: block;
+}
+
+.section__subtitle {
+    margin: 0;
+    font-size: var(--fs-h3);
+}
+.coral{
+    color: var(--clr-coral);
+}
+
+.info{
+    margin-top: 2em;
+}
+
+.my-pic{
+    display: block;
+    max-width: 70%;
+    margin: 0 auto;
+    box-shadow: var(--bs);
+    border-radius: 5%;
+}
+
+.skills{
+    text-align: center;
+    margin-top: .75em;
+}
+
+.skills ul{
+    display: flex;
+    padding: .25em .5em;
+}
+.skills li{
+    max-width: fit-content;
+    margin: .25em .5em;
+}
+
+@media (min-width: 600px) {
+    .my-pic{
+        max-width: 40%;
+    }
+    .info,
+    .skills-div{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .skills-div{
+        align-items: start;
+    }
+    .experienced{
+        border-right: 1px solid;
+    }
+    .section__title {
+        text-align: left;
+    }
+}
