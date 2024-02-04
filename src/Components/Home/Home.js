@@ -15,7 +15,12 @@ const Home = () => {
         </p>
         <p>Currently learning full-stack web develpment.</p>
         <button className="btn">
-          <a href="">View Course</a>
+          <a
+            href="https://www.udemy.com/course/the-complete-web-development-bootcamp"
+            target="_blank"
+          >
+            View Course
+          </a>
         </button>
       </div>
       <div className="info">

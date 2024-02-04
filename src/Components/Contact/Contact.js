@@ -9,7 +9,7 @@ const Contacts = () => {
         <li className="social-list__item">
           <a
             href="https://mail.google.com/mail/?view=cm&fs=1&to=ericbongomin@gmail.com"
-            className="footer__link"
+            className="social-list__link"
             target="_blank"
           >
             <i className="fas fa-envelope"></i>

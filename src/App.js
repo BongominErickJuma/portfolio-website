@@ -6,7 +6,7 @@ import Projects from "./Components/Project/Projects";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/portfolio-website">
       <div className="App">
         <Navbar />
         <div className="content">
