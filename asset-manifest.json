@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.fffb60fe.css",
+    "main.css": "/portfolio-website/static/css/main.9764ba0d.css",
     "main.js": "/portfolio-website/static/js/main.17b92027.js",
     "static/media/Bongomin.jpg": "/portfolio-website/static/media/Bongomin.78bba208ec56feef61be.jpg",
     "index.html": "/portfolio-website/index.html",
-    "main.fffb60fe.css.map": "/portfolio-website/static/css/main.fffb60fe.css.map",
+    "main.9764ba0d.css.map": "/portfolio-website/static/css/main.9764ba0d.css.map",
     "main.17b92027.js.map": "/portfolio-website/static/js/main.17b92027.js.map"
   },
   "entrypoints": [
-    "static/css/main.fffb60fe.css",
+    "static/css/main.9764ba0d.css",
     "static/js/main.17b92027.js"
   ]
 }
