@@ -68,7 +68,7 @@ header {
   }
   
   .nav-open .nav {
-    transform: translateY(50%);
+    transform: translateY(30%);
     opacity: 1;
   }
   
