@@ -4,7 +4,7 @@ import "./Contact.css";
 const Contacts = () => {
   return (
     <div className="contact-list">
-      <h2 className="section__title coral">Lets talk</h2>
+      <h2 className="section__title coral my-5">Lets talk</h2>
       <ul className="social-list">
         <li className="social-list__item">
           <a
@@ -34,7 +34,7 @@ const Contacts = () => {
           </a>
         </li>
       </ul>
-      <h3 className="phone">+256 786 146 150</h3>
+      <h3 className="phone">+256 775 008 904</h3>
     </div>
   );
 };

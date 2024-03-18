@@ -1,3 +1,6 @@
+.home{
+    text-align: center;
+}
 .section__title {
     margin-bottom: .25em;
 }
@@ -27,40 +30,6 @@
     max-width: 70%;
     margin: 0 auto;
     box-shadow: var(--bs);
-    border-radius: 5%;
+    border-radius: 50%;
 }
 
-.skills{
-    text-align: center;
-    margin-top: .75em;
-}
-
-.skills ul{
-    display: flex;
-    padding: .25em .5em;
-}
-.skills li{
-    max-width: fit-content;
-    margin: .25em .5em;
-}
-
-@media (min-width: 600px) {
-    .my-pic{
-        max-width: 40%;
-    }
-    .info,
-    .skills-div{
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-    .skills-div{
-        align-items: start;
-    }
-    .experienced{
-        border-right: 1px solid;
-    }
-    .section__title {
-        text-align: left;
-    }
-}

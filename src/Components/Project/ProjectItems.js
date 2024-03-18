@@ -1,10 +1,10 @@
 const projectItems = [
   {
     id: 1,
-    title: "Scientific Calculator",
+    title: "Blog",
     description:
-      "A valuable asset in my portfolio, a scientific calculator excels in complex computations",
-    url: "https://bongominerickjuma.github.io/scientific-calculator/",
+      "A user-friendly blog website built with Node.js and Express,enabling users to effortlessly create, edit, and delete their blogs.",
+    url: "https://my-blog-website-k6vb.onrender.com/",
   },
   {
     id: 2,
@@ -29,10 +29,10 @@ const projectItems = [
   },
   {
     id: 5,
-    title: "TO-Do list",
+    title: "Recipe Finder",
     description:
-      "Flexible to-do list for prioritizing favorite tasks, managing others, and easy deletion upon completion",
-    url: "https://bongominerickjuma.github.io/To-do-list/",
+      "Node.js and Express power a versatile platform where users can search for any recipe and discover random ones upon loading",
+    url: "https://recipe-finder-k7qk.onrender.com/",
   },
   {
     id: 6,
