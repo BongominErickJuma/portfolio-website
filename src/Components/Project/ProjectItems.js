@@ -8,17 +8,17 @@ const projectItems = [
   },
   {
     id: 2,
-    title: "Notes",
+    title: "Notepad",
     description:
-      "My versatile online note-taking platform enables seamless information capture, organization, and editing",
-    url: "https://bongominerickjuma.github.io/notes-taker/",
+      "Create and delete notes, manage todo lists. Utilizes local storage for data persistence, offering seamless user experience",
+    url: "https://bongominerickjuma.github.io/notepad/",
   },
   {
     id: 3,
-    title: "Weather App",
+    title: "The Hangout",
     description:
-      "Global weather app with city search, forecasts, and default setting for easy weather updates.",
-    url: "https://bongominerickjuma.github.io/weather/",
+      "  Secure login/signup to access jokes from a joke API. Utilizes PostgreSQL for robust database management.",
+    url: "https://thehangout.onrender.com",
   },
   {
     id: 4,
@@ -36,10 +36,10 @@ const projectItems = [
   },
   {
     id: 6,
-    title: "Boxing Website",
+    title: "Family Permalist",
     description:
-      "My visually striking boxing website, crafted using a Hostinger template, showcases my design and content curation skills",
-    url: "https://bongominerickjuma.github.io/bronX/index.html",
+      " A todo list for family. Features include adding and removing family members for collaborative task management",
+    url: "https://family-permalist.onrender.com/",
   },
 ];
 export default projectItems;
