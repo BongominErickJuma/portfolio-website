@@ -18,7 +18,7 @@ const Contacts = () => {
         <li className="social-list__item">
           <a
             className="social-list__link"
-            href="https://wa.me/+256786146150"
+            href="https://wa.me/+256775008904"
             target="_blank"
           >
             <i className="fab fa-whatsapp"></i>
